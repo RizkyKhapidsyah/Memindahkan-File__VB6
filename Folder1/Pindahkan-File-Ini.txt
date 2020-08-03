@@ -1,0 +1,1 @@
+ini adalah file yang akan dipindahkan ke Folder2 oleh program
